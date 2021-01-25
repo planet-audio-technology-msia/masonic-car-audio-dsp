@@ -1,3 +1,3 @@
-# Crossplatform car audio tunning platform
+# Crossplatform Car Audio Tunning Application
 
-coming soon!
+Coming Soon! 
