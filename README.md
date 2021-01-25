@@ -1,2 +1,3 @@
-# masonic-car-audio-dsp
-crossplatform car audio tuning application based react-ionic 
+# Crossplatform car audio tunning platform
+
+coming soon!
