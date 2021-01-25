@@ -1,3 +1,3 @@
-# Crossplatform Car Audio Tunning Application
+# Crossplatform Digital Signal Proccessor Car Audio Tunning Application
 
 Coming Soon! 
